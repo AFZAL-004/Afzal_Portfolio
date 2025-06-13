@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Website Builder",
+    "desc": "Advanced drag-and-drop website builder app with export functionality. Built using HTML, CSS, JavaScript, Electron, and PyQt5.",
+    "image": "websitebuilder",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Token Booking System",
+    "desc": "Web app for daily food token bookings with time restrictions, PDF generation, and SMS/email notifications. Built using Python and Flask.",
+    "image": "food",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sign Language to Text",
+    "desc": "ML-based sign language recognition system using EfficientNet and PyTorch. Converts hand gestures to real-time text.",
+    "image": "signtotext",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Emotion Recognition",
+    "desc": "Real-time emotion detection from webcam feed using CNN model and FER2013 dataset, with emoji overlay via Flask backend.",
+    "image": "emotion",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Car Price Prediction",
+    "desc": "ML regression model predicting car prices based on parameters like mileage, fuel type, and transmission.",
+    "image": "carprice",
+    "category": "datascience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Unemployment Analysis",
+    "desc": "Interactive data analysis of unemployment trends using Python, Pandas, and Matplotlib. Insights visualized via graphs.",
+    "image": "unemploy",
+    "category": "datascience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "CRM Chatbot",
+    "desc": "Flask-based chatbot using DistilBERT for intent recognition, entity extraction, and session memory for CRM support.",
+    "image": "chatbot",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Resume Builder App",
+    "desc": "React-based single-page app to dynamically generate resumes from user input with export to PDF feature.",
+    "image": "resumebuilder",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "TSP Path Optimizer",
+    "desc": "Java-based console app using heuristics for solving Travelling Salesman Problem with performance constraints.",
+    "image": "tsp",
+    "category": "datascience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Covid19 Dashboard",
+    "desc": "Data visualization dashboard showing global and country-level COVID-19 stats using Dash and Plotly.",
+    "image": "covid",
+    "category": "datascience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Blog Website with Admin Panel",
+    "desc": "A full-stack blog platform with user auth, blog creation, and admin dashboard. Built with Flask and SQLite.",
+    "image": "blogapp",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Real-Time Chat App",
+    "desc": "Socket.IO based chat application allowing multiple users to connect and chat in real-time with custom rooms.",
+    "image": "chatapp",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
