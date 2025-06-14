@@ -9,7 +9,7 @@ const chatMessages = document.getElementById('chatbot-messages');
 // ==== Local Intent Dictionaries ====
 const greetings = ["hi", "hello", "hey", "good morning", "good afternoon", "good evening"];
 const goodbyes = ["bye", "goodbye", "see you", "take care", "see ya"];
-const gibberishPatterns = [/^[a-z]{1,5}$/,/^[0-9]{1,9}$/,/^[a-z0-9]{5,}$/i, /^[^a-zA-Z0-9\s]{3,}$/i];  // e.g., 'xk', '!!??!'
+const gibberishPatterns = [/^[a-z]{1,3}$/,/^[0-9]{1,9}$/,/^[a-z0-9]{5,}$/i, /^[^a-zA-Z0-9\s]{3,}$/i];  // e.g., 'xk', '!!??!'
 
 // ==== Response Dictionary ====
 const responseDictionary = {
